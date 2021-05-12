@@ -21,3 +21,23 @@ npx create-react-app name-of-the-app
 ```
 
 ### Clone the project
+
+If you are following this step please follow the commands as follows:
+
+```bash
+git clone git@github.com:esmaeilmirzaee/project-name.git
+```
+
+```bash
+cd project-name
+```
+
+```bash
+yarn
+```
+
+The following commands will kick start our application
+
+```bash
+yarn start
+```
